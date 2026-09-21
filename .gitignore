@@ -1,0 +1,15 @@
+# 抽取的衍生数据（22 MB，运行 extract_epub.py 重新生成）
+references/full_text.txt
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+*.swp
+.idea/
+.vscode/
+
+# 测试临时文件
+test_*.py
+*.tmp
